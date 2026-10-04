@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jacksonalexandre.github.io/site-observatorio/sitemap.xml
+Sitemap: https://observatorioprocopense.com.br/sitemap.xml
